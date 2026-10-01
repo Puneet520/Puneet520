@@ -46,12 +46,3 @@ real-world problems.
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Puneet520&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-    alt="GitHub Contribution Activity Graph"
-  />
-</p>
