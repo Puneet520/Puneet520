@@ -2,6 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Puneet+Choudhary+%E2%9C%A8" alt="Typing SVG" /></a>
 </p>
 
+## 💫 About Me
 
 Hey! I'm a Computer Science student who enjoys turning ideas into
 working applications and exploring how technology can solve
